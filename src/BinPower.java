@@ -9,7 +9,7 @@ public class BinPower {
 	public BinPower() {
 		
 		
-	}
+	} 
 	
 	public void setBinary() {
 		
