@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class HexDecBin {
-	
+	 
 	Scanner kbd = new Scanner(System.in);
 	String name = "";
 	String hex = "";
